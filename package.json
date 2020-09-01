@@ -1,0 +1,19 @@
+{
+  "name": "node-express-handlebars",
+  "version": "1.0.0",
+  "description": "This is my assignment submission where I was tasked to create an application that utilizes MySQL, Node, Express, Handlebars, and a homemade ORM to query and route data in the app and Handlebars to generate the HTML all while following the MVC design pattern.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjihaduddin00/Node-Express-Handlebars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjihaduddin00/Node-Express-Handlebars/issues"
+  },
+  "homepage": "https://github.com/mjihaduddin00/Node-Express-Handlebars#readme"
+}
